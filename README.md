@@ -1,7 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#Ruby on rails Tutotial sample application
+
+This is the sample application for
+[*Ruby on rails Tutorial]
 
 Things you may want to cover:
 
